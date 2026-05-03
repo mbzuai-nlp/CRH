@@ -1,0 +1,8 @@
+README.md
+setup.py
+steering_opt.py
+steering_opt.egg-info/PKG-INFO
+steering_opt.egg-info/SOURCES.txt
+steering_opt.egg-info/dependency_links.txt
+steering_opt.egg-info/requires.txt
+steering_opt.egg-info/top_level.txt

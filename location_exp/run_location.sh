@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+python location_exp/all_prompt_steer_experiments_batch_gemma.py
+python location_exp/all_prompt_steer_experiments_batch_llama.py
+
+python location_exp/last_prompt_steer_experiments_batch_gemma.py
+python location_exp/last_prompt_steer_experiments_batch_llama.py
+
+python location_exp/output_prompt_steer_experiments_batch_llama.py
+python location_exp/output_token_steer_experiments_batch_gemma.py

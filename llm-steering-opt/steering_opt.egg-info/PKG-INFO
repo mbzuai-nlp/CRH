@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: steering_opt
+Version: 0.1
+Summary: A library for optimizing steering vectors in LLMs.
+Requires-Dist: mdmm
+Requires-Dist: numpy
+Requires-Dist: torch
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
