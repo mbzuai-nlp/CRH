@@ -27,7 +27,7 @@ The **Cylindrical Representation Hypothesis (CRH)** extends the Linear Represent
 - **Non-sensitive Sectors**: Regions where steering has limited effect
 
 <p align="center">
-  <img src="assets/imgs/overview.png" alt="Figure 1: Comparison between LRH and CRH. Under LRH (left), steering outcomes follow simple linear patterns. Under CRH (right), the cylindrical geometry with sensitive/non-sensitive sectors explains irregular steering behavior." width="700">
+  <img src="assets/imgs/overview.png" alt="Figure 1: Comparison between LRH and CRH. Under LRH (left), steering outcomes follow simple linear patterns. Under CRH (right), the cylindrical geometry with sensitive/non-sensitive sectors explains irregular steering behavior." width="50%">
   <br>
   <em><strong>Figure 1</strong>: Comparison between LRH and CRH. Under LRH (left), steering outcomes follow simple linear patterns. Under CRH (right), the cylindrical geometry with sensitive/non-sensitive sectors explains irregular steering behavior.</em>
 </p>
